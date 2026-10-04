@@ -13,5 +13,13 @@
   "dependencies": {
     "dayjs": "^1.11.23",
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehajagadish/dummy-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nehajagadish/dummy-app/issues"
+  },
+  "homepage": "https://github.com/nehajagadish/dummy-app#readme"
 }
